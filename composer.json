@@ -1,7 +1,6 @@
 {
     "name": "noahprot/fillindata",
     "License": "MIT",
-    "version":"1.0",
     "description": "take the csv file fill into database table",
     "authors": [
         {

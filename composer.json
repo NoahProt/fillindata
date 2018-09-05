@@ -14,6 +14,7 @@
             "NeoLee\\Fillindata\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [

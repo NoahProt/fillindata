@@ -1,5 +1,6 @@
 {
     "name": "noahprot/fillindata",
+    "License": "MIT",
     "description": "take the csv file fill into database table",
     "authors": [
         {
@@ -12,7 +13,6 @@
             "NeoLee\\Fillindata\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [

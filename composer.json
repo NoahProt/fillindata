@@ -1,5 +1,5 @@
 {
-    "name": "fillindata",
+    "name": "noahprot/fillindata",
     "license": "MIT",
     "description": "take the csv file fill into database table",
     "authors": [

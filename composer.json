@@ -1,0 +1,24 @@
+{
+    "name": "NoahProt/fillindata",
+    "description": "take the csv file fill into database table",
+    "authors": [
+        {
+            "name": "NoahProt",
+            "email": "mylovewangjian@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NeoLee\\Fillindata\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NoahProt\\Fillindata\\FillindataServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability" : "dev",
+    "require": {}
+}

@@ -1,9 +1,9 @@
 {
-    "name": "NoahProt/fillindata",
+    "name": "noahprot/fillindata",
     "description": "take the csv file fill into database table",
     "authors": [
         {
-            "name": "NoahProt",
+            "name": "Noah Prot",
             "email": "mylovewangjian@gmail.com"
         }
     ],
